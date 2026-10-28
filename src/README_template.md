@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # Free LLM API resources
 
 This lists various services that provide free access or credits towards API-based LLM usage.
